@@ -1,0 +1,1 @@
+My attempt to understand blockchain from the ground up. Following this tutorial here: https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
